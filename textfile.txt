@@ -1,0 +1,1 @@
+git is version control system. version control system is a management to manage the changes that were occured in the code
